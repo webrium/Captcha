@@ -1,19 +1,18 @@
 Captcha
 =======
 
-![Captchas examples](http://gregwar.com/captchas.png)
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YUXRLWHQSWS6L)
+### ⚠️ In this source, the bug that appeared in the library in PHP 8.2 has been fixed
 
 Installation
 ============
 
 With composer :
 
-``` json
+```json
 {
-    ...
+    
     "require": {
-        "gregwar/captcha": "1.*"
+        "webrium/captcha": "1.*"
     }
 }
 ```
